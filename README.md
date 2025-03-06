@@ -1,5 +1,18 @@
-## Hi there 👋
-
+       ,_    /) (\    _,
+        >>  <<,_,>>  <<
+       //   _0.-.0_   \\
+       \'._/       \_.'/
+        '-.\.--.--./.-'
+        __/ : :Y: : \ _
+';,  .-(_| : : | : : |_)-.  ,:'
+  \\/.'  |: : :|: : :|  `.\//
+   (/    |: : :|: : :|    \)
+         |: : :|: : :;
+        /\ : : | : : /\
+       (_/'.: :.: :.'\_)
+        \\  `""`""`  //
+         \\         //
+          ':.     .:'
 <!--
 **lucasmarchd01/lucasmarchd01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
